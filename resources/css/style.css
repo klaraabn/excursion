@@ -3,15 +3,11 @@ body {
   text-align :  center ;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/* HEADINGS*/
 .header--main{
     font-weight: normal;
     font-size: 50 px;
     color: #fff
-}
-.link--cta {
-    font-size: 16 px;
-    color: aquamarine;
-
 }
 .header--second{
     font-weight: 300;
@@ -22,4 +18,9 @@ body {
 .p--second{
     font-size: 21px;
     color: grey;
+}
+.link--cta {
+    font-size: 16 px;
+    color: aquamarine;
+
 }
